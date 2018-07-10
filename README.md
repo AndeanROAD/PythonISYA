@@ -20,14 +20,13 @@ Basic Python at ISYA
 03 Objects.  
 04 Modules.  
 
-## Lecture 3. Numpy and Matplotlib
+## Lecture 3. Numpy, Matplotlib and Scipy
 
 01 Numpy arrays. Slicing.  
 02 Reading and writing files.  
 03 Random Numbers.  
 04 Plotting in 1D, 2D.
-05 Fast Fourier Transform.  
-
+05 Scipy
 
 ## Lecture 4. Astropy
 
