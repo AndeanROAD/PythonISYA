@@ -25,8 +25,9 @@ Basic Python at ISYA
 01 Numpy arrays. Slicing.  
 02 Reading and writing files.  
 03 Random Numbers.  
-04 Fast Fourier Transform.  
-05 Plotting in 1D, 2D.
+04 Plotting in 1D, 2D.
+05 Fast Fourier Transform.  
+
 
 ## Lecture 4. Astropy
 
