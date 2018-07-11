@@ -25,17 +25,15 @@ Basic Python at ISYA
 01 Numpy arrays. Slicing.  
 02 Reading and writing files.  
 03 Random Numbers.  
-04 Plotting in 1D, 2D.
-05 Scipy
+04 Plotting in 1D, 2D.  
 
 ## Lecture 4. Astropy
 
 01 Constants and units.  
-02 Time and dates.  
-03 Coordinates.  
-04 Working with FITS files.  
-05 Cosmological calculations.  
-06 Virtual Observatory Access.  
+02 Time, dates and Coordinates.  
+03 Working with FITS files.  
+04 Cosmological calculations.  
+05 Database queries.  
 
 ## Lecture 5. Pandas
 
