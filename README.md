@@ -32,8 +32,7 @@ Basic Python at ISYA
 01 Constants and units.  
 02 Time, dates and Coordinates.  
 03 Working with FITS files.  
-04 Cosmological calculations.  
-05 Database queries.  
+04 Database queries.  
 
 ## Lecture 5. Pandas
 
