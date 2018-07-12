@@ -32,7 +32,7 @@ Basic Python at ISYA
 01 Constants and units.  
 02 Time, dates and Coordinates.  
 03 Working with FITS files.  
-04 Database queries.  
+04 Playing with SDSS data.
 
 ## Lecture 5. Pandas
 
