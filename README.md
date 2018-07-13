@@ -27,28 +27,13 @@ Basic Python at ISYA
 03 Random Numbers.  
 04 Plotting in 1D, 2D.  
 
-## Lecture 4. Astropy
+## Lecture 4 + 5. Astropy
 
 01 Constants and units.  
 02 Time, dates and Coordinates.  
 03 Working with FITS files.  
 04 Playing with SDSS data.
 
-## Lecture 5. Pandas
-
-01 Reading data with pandas.  
-02 Visualization.  
-03 Adding/deleting columns.  
-04 Stack/Unstack/Transpose.  
-05 Slicing Pandas Data Frames.  
-06 Groupby/aggregate.  
-
-## Lecture 6. (Optional) Reproducible Science.
-
-00 Why reproducible science?  
-01 Makefiles.   
-02 Git and Github. 
-03 Building a reproducible data processing workflow.  
 
 
 ### References
